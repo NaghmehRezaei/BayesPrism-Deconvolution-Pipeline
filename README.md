@@ -28,7 +28,7 @@ The analysis begins with bulk RNA-seq expression profiles and a single-cell refe
 
 BayesPrism estimates the contribution of each cell type to every bulk RNA-seq sample.
 
-![Cell-Type Composition](figures/fraction_plot.png)
+![Cell-Type Composition](figures/fraction_plots.png)
 
 ---
 
